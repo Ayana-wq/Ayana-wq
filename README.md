@@ -1,3 +1,14 @@
+Hi 👋 My name is Aian Mambetova
+===============================
+
+Developer, Designer & Teacher
+-----------------------------
+
+* 🌍  I'm based in Chicago
+* ✉️  You can contact me at [ayan.mambetova@gmail.com](mailto:ayan.mambetova@gmail.com)
+* 🧠  I'm learning ai machine learning
+* 🤝  I'm open to collaborating on interesning project
+
 ### Skills
 
 
