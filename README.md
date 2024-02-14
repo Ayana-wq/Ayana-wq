@@ -1,7 +1,7 @@
 Hi 👋 My name is Aian Mambetova
 ===============================
 
-Developer, Designer & Teacher
+Developer, Designer,Blogger 
 -----------------------------
 
 * 🌍  I'm based in Chicago
