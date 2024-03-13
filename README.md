@@ -31,10 +31,3 @@ Developer, Designer,Blogger
 
 <a href="https://github.com/Ayana-wq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayana-wq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ayan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
