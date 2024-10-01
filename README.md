@@ -1,13 +1,8 @@
-Hi 👋 My name is Aian Mambetova
-===============================
-
-Developer, UXI 
------------------------------
-
-* 🌍  I'm based in Chicago
-* ✉️  You can contact me at [ayan.mambetova@gmail.com](mailto:ayan.mambetova@gmail.com)
-* 🧠  I'm learning ai machine learning
-* 🤝  I'm open to collaborating on interesning project
+👋 Hi My name is Aian!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+🎨 Making videos about Computer Science, tech, and productivity on YouTube
+🌷 #learninginpublic in my digital garden
+💭 Currently learning about data analytics and AI!
 
 ### Skills
 
