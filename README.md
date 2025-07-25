@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/ef/dc/5e/efdc5e91de9328605bee0df87dc67839.gif" alt="Animated Pixel GIF" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/your-image-file.png" alt="Welcome Aian GitHub Banner" width="600" />
+</p>
 
 
 ###
