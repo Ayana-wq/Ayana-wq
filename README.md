@@ -32,9 +32,7 @@
 
 ###
 
-<p align="left">As a dedicated software developer, I have cultivated a diverse skill set through hands-on experience in various programming languages and frameworks. My journey in technology has been marked by a commitment to continuous learning and a passion for solving complex problems. I thrive in collaborative environments, working alongside cross-functional teams to design and implement innovative solutions that drive business success. My analytical mindset, coupled with a keen attention to detail, ensures that I deliver high-quality code and maintain robust system architectures. I am eager to contribute my expertise to projects that challenge me and allow me to grow professionally.</p>
 
-###
 
 
 
