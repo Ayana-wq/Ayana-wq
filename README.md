@@ -1,8 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://www.pinterest.com/pin/478859372899181235"  />
+  <img height="300" width="600" src="https://yourhost.com/images/ayana-workspace.png" />
 </div>
+
 
 ###
 
