@@ -15,6 +15,14 @@
   <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+
+ 👩‍💻 About Me
+
+- 🔭 I’m currently learning **Python & Algorithms**
+- 🌱 I’m building real-world projects with **React**
+- 💡 I love combining design & code in creative ways
+- 🗣 I speak English, Russian, and a little JavaScript 😉
+
   <a href="https://t.me/tehnomaniak07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
