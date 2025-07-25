@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/your-image-file.png" alt="Welcome Aian GitHub Banner" width="600" />
+  <img src="https://i.pinimg.com/originals/b3/4b/d0/b34bd0ef85660338e6082332e0d31a7f.gif" alt="Welcome Aian" width="600" />
 </p>
 
 
