@@ -1,7 +1,6 @@
 <br clear="both">
-
 <div align="center">
-  <img height="300" width="600" src="https://yourhost.com/images/ayana-workspace.png" />
+  <img height="300" width="600" src="https://i.pinimg.com/originals/76/00/5a/76005a74232a061e7567d2d7df04eadb.gif" alt="Animated Workspace GIF" />
 </div>
 
 
