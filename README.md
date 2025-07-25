@@ -1,7 +1,7 @@
 <br clear="both">
+
 <div align="center">
-  <img height="300" width="img width="500" height="339" alt="image" src="https://github.com/user-attachments/assets/a788ffa5-c8c0-4c31-84d5-cdc77c832df2/>
-" />
+  <img height="300" width="600" src="https://i.pinimg.com/originals/ef/dc/5e/efdc5e91de9328605bee0df87dc67839.gif" alt="Animated Pixel GIF" />
 </div>
 
 
