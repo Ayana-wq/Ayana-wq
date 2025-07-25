@@ -1,6 +1,7 @@
 <br clear="both">
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/76/00/5a/76005a74232a061e7567d2d7df04eadb.gif" alt="Animated Workspace GIF" />
+  <img height="300" width="img width="500" height="339" alt="image" src="https://github.com/user-attachments/assets/a788ffa5-c8c0-4c31-84d5-cdc77c832df2/>
+" />
 </div>
 
 
